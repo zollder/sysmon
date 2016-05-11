@@ -5,6 +5,6 @@
 *.gradle
 bkp/
 bin/
-dist/
+app/dist/
 node_modules/
 typings/

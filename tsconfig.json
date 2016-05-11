@@ -1,7 +1,7 @@
 {
 	// typescript compiler configuration
 	"compilerOptions": {
-		// "outDir": "dist/app",
+		"outDir": "app/dist",
 		"target": "es5",
 		"module": "system",
 		"moduleResolution": "node",
